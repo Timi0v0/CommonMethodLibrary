@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmHelper", "CommonHelper\AlgorithmHelper.csproj", "{543AC887-2843-4CB3-9276-3AAE4B876F84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmHelper", "CommonHelper\AlgorithmHelper.csproj", "{543AC887-2843-4CB3-9276-3AAE4B876F84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmHelper.Test", "AlgorithmHelper.Test\AlgorithmHelper.Test.csproj", "{AAB5A56F-6BD8-4CE5-AC40-4325BC7361A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmHelper.Test", "AlgorithmHelper.Test\AlgorithmHelper.Test.csproj", "{AAB5A56F-6BD8-4CE5-AC40-4325BC7361A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHelper", "WebHelper\WebHelper.csproj", "{AD00E13D-C8C8-4000-A740-96050BA890D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AAB5A56F-6BD8-4CE5-AC40-4325BC7361A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAB5A56F-6BD8-4CE5-AC40-4325BC7361A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAB5A56F-6BD8-4CE5-AC40-4325BC7361A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD00E13D-C8C8-4000-A740-96050BA890D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD00E13D-C8C8-4000-A740-96050BA890D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD00E13D-C8C8-4000-A740-96050BA890D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD00E13D-C8C8-4000-A740-96050BA890D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
